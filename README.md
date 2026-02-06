@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="YOUR-PHOTO-LINK" width="140" style="border-radius:50%" />
-</p>
-
-<h1 align="center">Dharshni Prakash</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer" />
-</p>
-
-<p align="center">
-Engineer focused on depth, structure, and real-world impact through computer science.
-</p>
 
 ---
 <p align="center">

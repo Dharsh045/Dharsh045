@@ -7,7 +7,7 @@
 <h1 align="center">Dharshni Prakash</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&lines=Computer+Science+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=1200&color=ffcc00&center=true&vCenter=true&width=420&lines=Computer+Science+Engineer" />
 </p>
 
 <p align="center">

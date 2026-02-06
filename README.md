@@ -27,88 +27,9 @@ GitHub for me is not a storage space, but a record of growth as an engineer.
 
 ---
 
-## Focus Areas
-
-* Data Structures & Algorithms
-* Artificial Intelligence & ML Systems
-* System Design & Backend Architecture
-* Graph-based and intelligent systems
-* Performance-oriented engineering
-
----
-
-## Projects
-
-### 📊 NSS Activity Portal
-
-Engineered a centralized system automating attendance and event workflows for large-scale student operations.
-Optimised backend logic and data management for efficiency and reliability.
-
-**Tech:** React • Node • SQL
-
----
-
-### 🎼 Rāga Evolution
-
-Developed a genetic algorithm framework to generate musically valid Carnatic rāgas using rule-guided evolution.
-Balanced musical correctness and novelty through fitness-driven selection.
-
-**Tech:** Python • Genetic Algorithms
-
----
-
-### 🧠 Novexa
-
-AI-driven platform designed to detect and classify misleading information using machine learning and NLP techniques.
-Focused on structured verification workflows and scalable detection pipelines.
-
-**Tech:** Python • ML • NLP
-
----
-
-### ♟️ CheckMate AI
-
-Designed and implemented an intelligent chess engine using minimax and alpha-beta pruning to compute optimal moves.
-Focused on algorithmic efficiency, board evaluation logic, and decision optimisation.
-
-**Tech:** Python • DSA
-
----
-
-
-## Engineering Approach
-
-* Strong fundamentals first
-* Clean and structured implementation
-* Systems built for real usage
-* Performance and scalability matter
-* Continuous improvement mindset
-
----
-
-## Currently Exploring
-
-* Advanced problem solving & optimisation
-* Scalable system design
-* AI-integrated applications
-* Efficient backend architectures
-
----
-
 ## Connect
 
 Portfolio: ADD
 LinkedIn: ADD
 Email: [dharshni045@gmail.com](mailto:dharshni045@gmail.com)
 
----
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharsh045\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh045\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
-
----
-
-## Contribution Graph
-
-![snake gif](https://github.com/Dharsh045/Dharsh045/blob/output/github-contribution-grid-snake.svg)

@@ -29,7 +29,7 @@ GitHub for me is not a storage space, but a record of growth as an engineer.
 
 ## Connect
 
-Portfolio: ADD
-LinkedIn: ADD
-Email: [dharshni045@gmail.com](mailto:dharshni045@gmail.com)
+Portfolio: https://pdharshniportfolio.netlify.app/
+LinkedIn: https://www.linkedin.com/in/p-dharshni-9827b9280/
+Email: dharshni045@gmail.com
 

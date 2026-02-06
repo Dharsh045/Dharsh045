@@ -1,7 +1,7 @@
 
 ---
 <p align="center">
-  <img src="YOUR-PHOTO-LINK" width="150" style="border-radius:50%" />
+  <img src="Banner.png" width="150" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Dharshni Prakash</h1>

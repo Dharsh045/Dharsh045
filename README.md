@@ -2,10 +2,10 @@
   <img src="YOUR-PHOTO-LINK" width="140" style="border-radius:50%" />
 </p>
 
-<h1 align="center">Dharshni</h1>
+<h1 align="center">Dharshni Prakash</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer;AI+%26+Algorithmic+Systems;Scalable+System+Builder;Strong+Fundamentals+%7C+Real+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineer" />
 </p>
 
 <p align="center">
@@ -13,138 +13,98 @@ Engineer focused on depth, structure, and real-world impact through computer sci
 </p>
 
 ---
+<p align="center">
+  <img src="YOUR-PHOTO-LINK" width="150" style="border-radius:50%" />
+</p>
 
-## Profile
+<h1 align="center">Dharshni Prakash</h1>
 
-Computer Science engineer building **intelligent, scalable, and structured systems** grounded in strong fundamentals.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2600&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&lines=Computer+Science+Engineer" />
+</p>
 
-My work centres around:
-
-* algorithmic problem solving
-* artificial intelligence systems
-* system design & backend architecture
-* performance-aware engineering
-
-I focus on building fewer systems — but building them well, with clarity and depth.
-
-GitHub serves as a structured record of my growth in **computer science, AI, and system design**.
+<p align="center">
+Building with logic, depth, and intent.
+</p>
 
 ---
 
-## Core Strengths
+## About
+
+I am a Computer Science engineer who enjoys building structured systems rooted in strong fundamentals.
+My interest lies in algorithmic thinking, intelligent systems, and designing technology that solves real-world problems with clarity and efficiency.
+
+I prefer depth over volume — building fewer systems, but ensuring they are well-designed, scalable, and meaningful.
+
+GitHub for me is not a storage space, but a record of growth as an engineer.
+
+---
+
+## Focus Areas
 
 * Data Structures & Algorithms
-* Artificial Intelligence Systems
-* Backend & Scalable Architecture
-* Graph-Based Data Modelling
-* Optimisation & Performance
-* Structured Problem Solving
+* Artificial Intelligence & ML Systems
+* System Design & Backend Architecture
+* Graph-based and intelligent systems
+* Performance-oriented engineering
 
 ---
 
-## Technical Stack
+## Projects
 
-**Languages**
-Python • Java • C/C++ • JavaScript • SQL
+### 📊 NSS Activity Portal
 
-**Computer Science**
-Data Structures & Algorithms
-Operating Systems
-DBMS
-Computer Networks
-Object-Oriented Design
+Engineered a centralized system automating attendance and event workflows for large-scale student operations.
+Optimised backend logic and data management for efficiency and reliability.
 
-**AI & Data Systems**
-Machine Learning
-NLP
-Search & Optimisation
-Neo4j Graph Databases
-
-**Tools**
-Git • Linux • Docker • Postman
+**Tech:** React • Node • SQL
 
 ---
 
-## Selected Systems & Engineering Work
+### 🎼 Rāga Evolution
 
-### ♟️ CheckMate AI — Chess Engine
+Developed a genetic algorithm framework to generate musically valid Carnatic rāgas using rule-guided evolution.
+Balanced musical correctness and novelty through fitness-driven selection.
 
-Engineered a chess engine implementing **minimax with alpha-beta pruning** to compute optimal decisions.
-
-Focus areas:
-
-* recursive optimisation
-* heuristic board evaluation
-* search depth efficiency
-* performance-oriented design
-
-<img src="ADD-CHESS-IMAGE" width="900"/>
+**Tech:** Python • Genetic Algorithms
 
 ---
 
-### 📄 Paper Scrape — Research Intelligence Graph
+### 🧠 Novexa
 
-Graph-based research discovery system mapping papers, authors, and citations using **Neo4j**.
+AI-driven platform designed to detect and classify misleading information using machine learning and NLP techniques.
+Focused on structured verification workflows and scalable detection pipelines.
 
-Focus areas:
-
-* graph modelling & traversal
-* citation intelligence
-* author-paper clustering
-* query-driven exploration
-
-<img src="ADD-PAPER-IMAGE" width="900"/>
+**Tech:** Python • ML • NLP
 
 ---
 
-### 🌊 Solar-Powered Autonomous Water Cleaner
+### ♟️ CheckMate AI
 
-Autonomous system designed to detect, classify, and collect floating waste with adaptive processing.
+Designed and implemented an intelligent chess engine using minimax and alpha-beta pruning to compute optimal moves.
+Focused on algorithmic efficiency, board evaluation logic, and decision optimisation.
 
-Focus areas:
-
-* intelligent detection workflow
-* autonomous decision systems
-* sustainable engineering design
-* real-world deployment thinking
-
-<img src="ADD-SOLAR-IMAGE" width="900"/>
+**Tech:** Python • DSA
 
 ---
 
-### 📊 NSS Activity & Attendance Management System
 
-Structured campus-scale system for managing events, attendance, and reports.
+## Engineering Approach
 
-Focus areas:
-
-* role-based architecture
-* scalable data modelling
-* clean backend structure
-* system reliability
-
-<img src="ADD-NSS-IMAGE" width="900"/>
+* Strong fundamentals first
+* Clean and structured implementation
+* Systems built for real usage
+* Performance and scalability matter
+* Continuous improvement mindset
 
 ---
 
-## Engineering Philosophy
+## Currently Exploring
 
-* Strong fundamentals over trends
-* Depth over quantity
-* Clean, maintainable systems
-* Performance-aware design
-* Build with intent and structure
-
-I approach projects as **systems**, not just codebases.
-
----
-
-## Current Direction
-
-* Advanced DSA & optimisation
-* System design & architecture
+* Advanced problem solving & optimisation
+* Scalable system design
 * AI-integrated applications
-* Scalable backend engineering
+* Efficient backend architectures
 
 ---
 
@@ -155,6 +115,28 @@ LinkedIn: ADD
 Email: [dharshni045@gmail.com](mailto:dharshni045@gmail.com)
 
 ---
+
+## Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dharsh045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Dharsh045&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+---
+
+## Activity
+
+![snake gif](https://github.com/Dharsh045/Dharsh045/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+Consistent growth. Clean systems. Real impact.
+</p>
+
 
 <p align="center">
 Depth. Structure. Impact.

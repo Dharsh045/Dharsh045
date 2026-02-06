@@ -103,35 +103,6 @@ Email: [dharshni045@gmail.com](mailto:dharshni045@gmail.com)
 
 ---
 
-## Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dharsh045&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh045&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dharsh045&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
----
-
-## Activity
-
-![snake gif](https://github.com/Dharsh045/Dharsh045/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-Consistent growth. Clean systems. Real impact.
-</p>
-
-
-<p align="center">
-Depth. Structure. Impact.
-</p>
-
----
-
-## GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharsh045\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsh045\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
